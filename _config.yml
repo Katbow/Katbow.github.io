@@ -1,0 +1,18 @@
+title:             katbow
+email:             katherine.bowler@gmail.com
+author:            Katherine Bowler
+baseurl:           "/"
+url:               "http://katbow.github.io"
+
+# Social Profiles
+twitter_username:  MsKatbow
+github_username:   katbow
+linkedin_username: katbow
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
