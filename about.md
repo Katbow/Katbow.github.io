@@ -13,4 +13,4 @@ I've built apps for NHS trusts, helped [Felcana](https://felcana.com/)
 flesh out their development processes, and have most recently been working with
 [Casper](https://casper.com/).
 
-If you want to get in touch, [drop me a message]("/contact")!
+If you want to get in touch, [drop me a message](contact)!
