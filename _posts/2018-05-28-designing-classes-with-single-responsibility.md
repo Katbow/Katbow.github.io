@@ -2,7 +2,7 @@
 layout: post
 title:  "Designing Classes with a Single Responsibility"
 subtitle: "Notes from 'Practical Object Oriented Design in Ruby'"
-date:   2018-04-28 10:45:13 -0400
+date:   2018-05-28
 background: '/img/posts/bicycle.jpg'
 ---
 
