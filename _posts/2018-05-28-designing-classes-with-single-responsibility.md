@@ -6,11 +6,6 @@ date:   2018-04-28 10:45:13 -0400
 background: '/img/posts/bicycle.jpg'
 ---
 
-<!-- TODO: affiliate link to book
-
-TODO: careful with "recreating/distributing" parts of the book w/o permission.
-might be safer to use your own code examples -->
-
 ## Why Single Responsibility?
 
 How do you define a well-written application?
@@ -66,12 +61,6 @@ Depending on data can mean depending on complicated structures that are
 referenced several times throughout a class. Whether the data structure is
 simple or complicated, directly referencing data will mean when the data changes,
 so does your code _in many places_.
-
-<!-- --Original below--
-Data will often be in complicated structures. Referencing data directly can mean
-complicated code that doesn't really reveal what the data is. It will likely be
-referenced several times throughout the class, and whether the data structure is
-simple or complicated, this will require multiple changes when the data changes. -->
 
 #### 1a. Hide instance variables
 Rather than directly calling `@instance_variable` every time you need to use it,
